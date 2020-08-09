@@ -1,0 +1,2 @@
+change custom_scope.png colors-
+change green to blue to match crosshair
