@@ -1,6 +1,0 @@
-change custom_scope.png colors-
-change green to blue to match crosshair
-blue - 120,240,120 (hue,sat,lum)
-
-
-update settings to point to updated ^ custom_scope url
