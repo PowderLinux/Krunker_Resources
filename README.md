@@ -11,7 +11,6 @@ Settings Info:
 
 
 To use my settings, Open Krunker > Click Settings > Click Import > Copy/Paste my settings text. 
-
 (Copy=Ctrl+C, Paste=Ctrl+V)
 
 
