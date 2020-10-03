@@ -10,7 +10,9 @@ This repo contains the images and settings that I use in Krunker.io
 Settings Info:
 
 
-The settings contains 2 versions- the newer 2.7.* format, and the older 2.6.* format.
+To use my settings- 
+Open Krunker > Click Settings > Click Import > Copy/Paste my settings text. 
+(Copy = Ctrl+C, Paste = Ctrl+V)
 
 
 
