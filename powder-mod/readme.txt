@@ -9,5 +9,9 @@ Gun sound effects from CRUCIAL mod by Crucial.
 Headshot sound effect from UT_Headshot mod by xXxJuanSoloxXx
 
 HowTo:
-To use this mod, download mod.zip, select Mods on Krunker, click Load (top left), 
-drag and drop mod.zip into the center box, and then click Load (bottom right). DONE!
+Load published version-
+Open Krunker, select Mods, and search 'Powder-Mod'
+-or-
+Load it manually-
+Download mod.zip, select Mods on Krunker, click Load (top left), drag and drop 
+mod.zip into the center box, and then click Load (bottom right). DONE!
