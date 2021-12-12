@@ -11,9 +11,7 @@ Settings Info:
 
 
 My settings have links to the images in this repo embedded in them, 
-so you can just import my settings to use them. You might want to 
-change the end message, I put it at the end of the line to make it
-easier to find.
+so you can just import my settings to use them. (updated for season 5)
 
 
 
